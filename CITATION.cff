@@ -1,0 +1,57 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite the associated article."
+title: "Influences of Sampling Design and Model Selection on Predictions of Chemical Compounds in Petroferric Formations in the Brazilian Amazon"
+type: software
+authors:
+  - family-names: Rodrigues
+    given-names: Niriele B.
+  - family-names: Barbosa
+    given-names: Theresa R. P.
+  - family-names: Pinheiro
+    given-names: Helena S. K.
+  - family-names: Mancini
+    given-names: Marcelo
+  - family-names: Read
+    given-names: Quentin D.
+  - family-names: Blackstock
+    given-names: Joshua
+  - family-names: Winzeler
+    given-names: Hans E.
+  - family-names: Miller
+    given-names: David
+  - family-names: Owens
+    given-names: Phillip R.
+  - family-names: Libohova
+    given-names: Zamir
+doi: 10.3390/rs17091644
+url: "https://www.mdpi.com/2072-4292/17/9/1644"
+date-released: 2025-05-06
+preferred-citation:
+  type: article
+  title: "Influences of Sampling Design and Model Selection on Predictions of Chemical Compounds in Petroferric Formations in the Brazilian Amazon"
+  journal: Remote Sensing
+  year: 2025
+  volume: 17
+  issue: 9
+  doi: 10.3390/rs17091644
+  authors:
+    - family-names: Rodrigues
+      given-names: Niriele B.
+    - family-names: Barbosa
+      given-names: Theresa R. P.
+    - family-names: Pinheiro
+      given-names: Helena S. K.
+    - family-names: Mancini
+      given-names: Marcelo
+    - family-names: Read
+      given-names: Quentin D.
+    - family-names: Blackstock
+      given-names: Joshua
+    - family-names: Winzeler
+      given-names: Hans E.
+    - family-names: Miller
+      given-names: David
+    - family-names: Owens
+      given-names: Phillip R.
+    - family-names: Libohova
+      given-names: Zamir
