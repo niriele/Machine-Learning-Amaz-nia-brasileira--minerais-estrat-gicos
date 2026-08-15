@@ -1,0 +1,19 @@
+.Rhistory
+.RData
+.Ruserdata
+.Rproj.user/
+
+# Input data and raster covariates
+data/*.csv
+data/*.RData
+raster/*.tif
+raster/*.tiff
+
+# Generated models, maps, and outputs
+modelo/
+mapa/
+outputs/
+
+# Operating-system files
+.DS_Store
+Thumbs.db
